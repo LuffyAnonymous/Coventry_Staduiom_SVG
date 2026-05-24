@@ -8,7 +8,7 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
         "textY": 774.0,
         "fontSize": 20.0,
         "id": "section-1",
-        "name": "16",
+        "name": "17",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_1"
@@ -20,7 +20,7 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
         "textY": 770,
         "fontSize": 20.0,
         "id": "section-2",
-        "name": "15",
+        "name": "16",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_2"
@@ -32,7 +32,7 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
         "textY": 774.0,
         "fontSize": 20.0,
         "id": "section-3",
-        "name": "17",
+        "name": "18",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_3"
@@ -92,7 +92,7 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
         "textY": 774.0,
         "fontSize": 20.0,
         "id": "section-8",
-        "name": "18",
+        "name": "19",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_8"
@@ -128,7 +128,7 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
         "textY": 774.0,
         "fontSize": 20.0,
         "id": "section-11",
-        "name": "20",
+        "name": "21",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_11"
@@ -152,7 +152,7 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
         "textY": 774.0,
         "fontSize": 20.0,
         "id": "section-13",
-        "name": "21",
+        "name": "22",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_13"
@@ -164,7 +164,7 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
         "textY": 774.0,
         "fontSize": 20.0,
         "id": "section-14",
-        "name": "22",
+        "name": "23 \u2022 FZ",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_14"
@@ -304,11 +304,11 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
     {
         "type": "path",
         "d": "M1015.3 700L1146.01 778.275L1143.71 781.204C1118.61 813.183 1083.36 835.664 1043.78 844.945L1033.64 847.322L980.92 700H1015.3Z",
-        "textX": 1063,
+        "textX": 1075,
         "textY": 774,
         "fontSize": 20.0,
         "id": "section-26",
-        "name": "26",
+        "name": "25",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_26"
@@ -316,7 +316,7 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
     {
         "type": "path",
         "d": "M1002.5 44.1729L1044.74 50.9434C1058.86 53.2082 1072.66 57.2088 1085.8 62.8525L1029.57 123H1002.5V44.1729Z",
-        "textX": 1030,
+        "textX": 1025,
         "textY": 84,
         "fontSize": 20.0,
         "id": "section-27",
@@ -328,11 +328,11 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
     {
         "type": "path",
         "d": "M188.639 700.464L72.6444 811.575C103.377 834.242 140.607 846.404 178.815 846.235L195.986 846.159L229.036 700.286L188.639 700.464Z",
-        "textX": 150,
-        "textY": 773,
+        "textX": 170,
+        "textY": 774,
         "fontSize": 20.0,
         "id": "section-28",
-        "name": "14",
+        "name": "15",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_28"
@@ -340,11 +340,11 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
     {
         "type": "path",
         "d": "M110.289 70.6457L42.6238 63.238L27.5048 86.5125C16.9374 102.781 9.085 120.659 4.25449 139.448L2.95997 144.483L84.5768 133.276L102.326 110.063L102.799 109.445L103.515 109.751L158.031 133.136L192.205 120.768L110.289 70.6457Z",
-        "textX": 99,
+        "textX": 71.5,
         "textY": 104,
         "fontSize": 20.0,
         "id": "section-29",
-        "name": "",
+        "name": "6",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_29"
@@ -352,7 +352,7 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
     {
         "type": "path",
         "d": "M194.05 122.75L108.839 68.0762L116.783 63.9104C141.743 50.8202 169.441 43.8085 197.622 43.4465L208.052 43.3131L237.165 122.196L194.05 122.75Z",
-        "textX": 172,
+        "textX": 179,
         "textY": 83,
         "fontSize": 20.0,
         "id": "section-30",
@@ -368,7 +368,7 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
         "textY": 747,
         "fontSize": 20.0,
         "id": "section-31",
-        "name": "",
+        "name": "14",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_31"
@@ -376,8 +376,8 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
     {
         "type": "path",
         "d": "M1.13892 653.489L4.58051 679.702C6.35431 693.211 9.66441 706.474 14.4471 719.232L19.0012 731.378L156.229 679.765L156.48 652.046L1.13892 653.489Z",
-        "textX": 80,
-        "textY": 699,
+        "textX": 69,
+        "textY": 680,
         "fontSize": 20.0,
         "id": "section-32",
         "name": "13",
@@ -388,11 +388,11 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
     {
         "type": "path",
         "d": "M1180.34 694.415L1178.38 705.209C1173.45 732.32 1162.11 757.853 1145.3 779.677L1017.47 701.037L1035.34 690.962L1035.55 690.842L1035.68 690.637L1048.42 671.099L1180.34 694.415Z",
-        "textX": 1098,
+        "textX": 1115,
         "textY": 725,
         "fontSize": 20.0,
         "id": "section-33",
-        "name": "25",
+        "name": "26",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_33"
@@ -400,11 +400,11 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
     {
         "type": "path",
         "d": "M978.388 700L1031.76 848H910.5V700H978.388Z",
-        "textX": 971,
+        "textX": 960,
         "textY": 774,
         "fontSize": 18.0,
         "id": "section-34",
-        "name": "23 \u2022 FZ",
+        "name": "24 \u2022 FZ",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_34"
@@ -416,7 +416,7 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
         "textY": 774.0,
         "fontSize": 20.0,
         "id": "section-35",
-        "name": "19",
+        "name": "20",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_35"
@@ -496,11 +496,11 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
     {
         "type": "path",
         "d": "M1180.5 612V696.768L1049.5 669.188V612H1180.5Z",
-        "textX": 1098,
-        "textY": 654,
+        "textX": 1115,
+        "textY": 635,
         "fontSize": 18.0,
         "id": "section-42",
-        "name": "24 \u2022 FZ",
+        "name": "27",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_42"
@@ -512,7 +512,7 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
         "textY": 558.5,
         "fontSize": 20.0,
         "id": "section-43",
-        "name": "29",
+        "name": "28",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_43"
@@ -524,7 +524,7 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
         "textY": 453.5,
         "fontSize": 20.0,
         "id": "section-44",
-        "name": "30",
+        "name": "29",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_44"
@@ -532,11 +532,11 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
     {
         "type": "path",
         "d": "M1.5 402H157.5V505H1.5V402Z",
-        "textX": 79.5,
+        "textX": 71.5,
         "textY": 453.5,
         "fontSize": 20.0,
         "id": "section-45",
-        "name": "9",
+        "name": "10",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_45"
@@ -544,11 +544,11 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
     {
         "type": "path",
         "d": "M1.5 507H157.5V609H1.5V507Z",
-        "textX": 79.5,
+        "textX": 71.5,
         "textY": 558.0,
         "fontSize": 20.0,
         "id": "section-46",
-        "name": "10",
+        "name": "11",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_46"
@@ -556,11 +556,11 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
     {
         "type": "path",
         "d": "M1.5 611H157.5V654H1.5V611Z",
-        "textX": 79.5,
+        "textX": 71.5,
         "textY": 632.5,
         "fontSize": 20.0,
         "id": "section-47",
-        "name": "11",
+        "name": "12",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_47"
@@ -568,11 +568,11 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
     {
         "type": "path",
         "d": "M1.5 297H157.5V400H1.5V297Z",
-        "textX": 79.5,
+        "textX": 71.5,
         "textY": 348.5,
         "fontSize": 20.0,
         "id": "section-48",
-        "name": "8",
+        "name": "9",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_48"
@@ -580,11 +580,11 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
     {
         "type": "path",
         "d": "M1.5 192H157.5V295H1.5V192Z",
-        "textX": 79.5,
+        "textX": 71.5,
         "textY": 243.5,
         "fontSize": 20.0,
         "id": "section-49",
-        "name": "7",
+        "name": "8",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_49"
@@ -592,11 +592,11 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
     {
         "type": "path",
         "d": "M157.5 129.197V191H1.5V145.327L84.6875 129.482L84.9697 129.429L85.1807 129.232L105.729 110.15L157.5 129.197Z",
-        "textX": 150,
+        "textX": 71.5,
         "textY": 160,
         "fontSize": 20.0,
         "id": "section-50",
-        "name": "",
+        "name": "7",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_50"
@@ -608,7 +608,7 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
         "textY": 348.5,
         "fontSize": 20.0,
         "id": "section-51",
-        "name": "31",
+        "name": "30",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_51"
@@ -620,7 +620,7 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
         "textY": 243.5,
         "fontSize": 20.0,
         "id": "section-52",
-        "name": "32",
+        "name": "31",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_52"
@@ -628,11 +628,11 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
     {
         "type": "path",
         "d": "M1178.96 149.442C1179.98 154.205 1180.5 159.062 1180.5 163.934V190H1049.5V149.116L1166.29 90.4727L1178.96 149.442Z",
-        "textX": 1110,
-        "textY": 150,
+        "textX": 1115,
+        "textY": 160,
         "fontSize": 20.0,
         "id": "section-53",
-        "name": "",
+        "name": "32",
         "shape_class": "block",
         "g_parent_class": "section",
         "g_parent_data_id": "S_53"
@@ -640,8 +640,8 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
     {
         "type": "path",
         "d": "M1140.52 61L1164.44 91.1377L1048.77 146.264L1028.82 122.521L1083.95 61H1140.52Z",
-        "textX": 1105,
-        "textY": 104,
+        "textX": 1100,
+        "textY": 100,
         "fontSize": 20.0,
         "id": "section-54",
         "name": "33",
@@ -671,7 +671,7 @@ export const COVENTRY_CITY_GROUND: SeatSection[] = [
     },
     {
         "type": "path",
-        "textX": -10,
+        "textX": -15,
         "textY": 450,
         "fontSize": 20.0,
         "id": "stand-label-3",
